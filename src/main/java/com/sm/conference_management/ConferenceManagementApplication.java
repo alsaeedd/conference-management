@@ -1,4 +1,4 @@
-package com.sm.conference_management.conference_management;
+package com.sm.conference_management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
